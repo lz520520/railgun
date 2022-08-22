@@ -2,4 +2,6 @@ Railgun为一款GUI界面的渗透工具，将部分人工经验转换为自动�
 
 详细功能可查看pdf文档。
 
+插件及插件化开发参考https://github.com/lz520520/railgunlib
+
 pass: 三个空格
