@@ -12,6 +12,6 @@ pass: 三个空格
 # mac启动问题解决方案
 
 - https://zhuanlan.zhihu.com/p/443984060
-  - a. xattr -c gorailgun.app
+  - xattr -c gorailgun.app
 
 - wget https://github.com/....下载
